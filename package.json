@@ -1,0 +1,26 @@
+{
+  "name": "sql-sequelize-races",
+  "version": "1.0.0",
+  "description": "## Введение",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quertte/sql-sequelize-races.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Quertte/sql-sequelize-races/issues"
+  },
+  "homepage": "https://github.com/Quertte/sql-sequelize-races#readme",
+  "dependencies": {
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.21.4"
+  }
+}
